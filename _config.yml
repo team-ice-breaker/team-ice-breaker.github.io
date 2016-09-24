@@ -31,6 +31,12 @@ twitter_handle: ''
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
 
+nav_item:
+  - url: info
+    desc: Project Info
+  - url: https://docs.google.com/document/d/11ug407kmWp2jNfbNXkVK_eDwPAEn_tB3iwnlyoBGhAU/pub
+    desc: Time Tracking Reports
+    
 # social icons and sharing options
 social:
 
@@ -40,4 +46,3 @@ social:
     share_url:
     share_title:
     share_link:
-
