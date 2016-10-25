@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 <div class="teaserimage">
     <div class="teaserimage-image" {% if site.cover %}style="background-image: url({{ site.cover }})"{% endif %}>
         Teaser Image
@@ -27,7 +26,16 @@ layout: default
     </div>
 </header>
 <main class="content" role="main">
+	<p>On this page we will periodically upload metrics once each sprint is complete.</p>
     <div class="cf frame">
-      {% include welcome.md %}
+      {% for post in site.posts %}
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
+          <div class="article-item">
+            <header class="post-header">
+              <h2 class="post-title" itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
+            </header>
+          </div>
+        </article>
+      {% endfor %}
     </div>
 </main>

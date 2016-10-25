@@ -34,8 +34,12 @@ twitter_handle: ''
 nav_item:
   - url: info
     desc: Project Info
-  - url: https://docs.google.com/document/d/11ug407kmWp2jNfbNXkVK_eDwPAEn_tB3iwnlyoBGhAU/pub
+  - url: https://docs.google.com/spreadsheets/d/1w_F78z7NpLgWol0Lwgcyw0X_5e_P_L_UdNovVzr1Frs/pubhtml
     desc: Time Tracking Reports
+  - url: metrics
+    desc: Metrics
+  - url: deliverables
+    desc: Deliverables
     
 # social icons and sharing options
 social:
