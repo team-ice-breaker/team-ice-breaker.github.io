@@ -3,4 +3,8 @@ layout: page
 title: Deliverables
 ---
 
-[Project Plan](pp-v1.pdf)
+# Interim Deliverables
+
++ [Four-ups](Interim_4up.pdf)
++ [Project Plan](pp-v1.pdf)
++ [Metrics](Interium_Metrics.pdf)
