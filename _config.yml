@@ -40,8 +40,6 @@ nav_item:
     desc: Metrics
   - url: deliverables
     desc: Deliverables
-  - url: tests
-    desc: Travis CI tests
     
 # social icons and sharing options
 social:
