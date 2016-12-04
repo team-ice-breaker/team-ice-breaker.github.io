@@ -36,8 +36,8 @@ nav_item:
     desc: Project Info
   - url: https://docs.google.com/spreadsheets/d/1w_F78z7NpLgWol0Lwgcyw0X_5e_P_L_UdNovVzr1Frs/pubhtml
     desc: Time Tracking Reports
-  - url: metrics
-    desc: Metrics
+  - url: http://glimpseio.github.io/glacier
+    desc: Travis Output
   - url: deliverables
     desc: Deliverables
     
