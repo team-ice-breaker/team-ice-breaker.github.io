@@ -1,1 +1,1 @@
-Welcome to the website of Team Icebreaker! This is the site for our senior project. We are working with Glimpse I/O to build a data visualization library that can utilized by data visualization applications. You can view our full project synopsis, and learn more about our team, by clicking the links above.
+Welcome to the website of Team Icebreaker! We're building a library that can be used to generate data visualizations from relational databases or flat files. Here you can find information about our project and deliverables required by RIT.

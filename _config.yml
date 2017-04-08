@@ -45,8 +45,8 @@ nav_item:
 social:
 
   - icon:	github
-    url:	https://github.com/team-ice-breaker
-    desc:	Team GitHub
+    url:	https://github.com/glimpseio/glacier
+    desc:	Glacier
     share_url:
     share_title:
     share_link:

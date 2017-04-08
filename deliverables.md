@@ -3,10 +3,8 @@ layout: page
 title: Deliverables
 ---
 
-# Interim Deliverables
-
 + [Four-ups](Interim_4up.pdf)
-+ [Project Synopsis](Project_synopsis.pdf)
-+ [Project Plan](pp-v1.pdf)
-+ [Metrics](Interium_Metrics.pdf)
-+ [Presentation](Interim_presentation.pdf)
++ [Project Synopsis](https://docs.google.com/document/d/1tbwOGlFmwTifdcg9nGAHXJ69-hFPi66FfYw7BktfrWQ/pub)
++ [Project Plan](https://docs.google.com/document/d/1Nfi5az9QJnsTcge5Q_UFo6KkVAP0FBCjWtM6H6A5BUI/pub)
++ [Interim Metrics](Interim_Metrics.pdf)
++ [Interim Presentation](Interim_presentation.pdf)
